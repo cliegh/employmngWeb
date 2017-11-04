@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+h1{
+	margin-top : 20px;
+	margin-left : 80px;
+	margin-bottom : 20px;
+}
+#nav{
+	font-size : 20px;
+	height : 1000px; 
+	float : left;
+	border-right:1px solid gray;
+	margin-right : 15px;
+	line-height : 200%;
+	padding-right : 43px;
+}
+li{
+list-style : none;
+}
+#content{
+	margin-left : 100px;
+	line-height : 155%;
+}
